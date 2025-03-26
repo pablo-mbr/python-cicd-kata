@@ -4,7 +4,7 @@ from fastapi.responses import RedirectResponse
 from app.application.get_dice_roll import get_dice_roll
 
 
-#hehe siuu
+#hehe siuuuu
 
 
 
